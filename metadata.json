@@ -1,0 +1,6 @@
+{
+  "name": "CrisisPilot",
+  "description": "Autonomous Emergency Response & Resource Coordination Agent",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
